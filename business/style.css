@@ -1,0 +1,103 @@
+body {
+    overflow-x: hidden;
+}
+
+nav {
+    margin: 30px 30px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #FFBB42!important;
+}
+
+.nav-link {
+    color: #868686!important;
+}
+
+.container {
+    width: 1170px;
+}
+
+.boostup {
+    background: #709DCA;
+}
+
+#boost-title {
+    margin-top: 110px;
+}
+
+.btn-primary {
+    background-color: #FFBB42!important;
+    border-radius: 3px!important;
+    border-color: #FFBB42!important;
+    padding: 10px!important;
+}
+
+.form-control {
+    padding: 10px!important;
+    border-radius: 3px!important;
+}
+
+.services {
+    margin-top: 130px;
+}
+
+.about {
+    background-color: #FFC155;
+    color: white;
+}
+
+.abouttext {
+    margin-top: 70px;
+}
+
+.btn-outline-light {
+    --bs-btn-border-color: #E7AD48!important;
+    border-radius: 3px!important;
+    padding: 10px!important;
+}
+
+.price {
+    background-color: #E7EDF3;
+}
+
+.pricetext {
+    margin-top: 130px;
+}
+
+.btn-warning {
+    color: #fff!important;
+    background-color: #FFBB42!important;
+    padding: 10px!important;
+    border-radius: 3px!important;
+}
+
+.howitworks {
+    margin-top: 130px;
+}
+
+.clients {
+    color: #fff;
+    background-color: #FFC155;
+    margin-top: 150px;
+}
+
+.happy-clients {
+    padding: 30px;
+    border: 1px solid;
+    background-color: #fff;
+    color: #000;
+}
+
+.newsletter {
+    margin-top: 150px;
+}
+
+.footer {
+    padding: 30px;
+    background-color: #709DCA;
+    color: #fff;
+}
+
+
+
